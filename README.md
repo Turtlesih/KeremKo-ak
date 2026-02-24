@@ -1,7 +1,6 @@
 # Selam, ben Kerem! 👋
 
 
-
 Şu an Python ile Otel Rezervasyon Sistemi üzerinde çalışıyorum ve 3D dünyasına (Blender & AI) giriş yapıyorum.
 
 ### 🛠 Teknolojiler ve Araçlar
@@ -10,7 +9,7 @@
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
 
 ### 📊 GitHub İstatistiklerim
-![Kerem's Stats](https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=dark)
+![Kerem's Stats](https://github-readme-stats.vercel.app/api?username=Turtlesih&show_icons=true&theme=dark)
 
 ### 🛠 Kullandığım Teknolojiler
 <p align="left">
