@@ -24,9 +24,9 @@
 ---
 
 ### 📊 GitHub Analytics
-<img height="180em" src="https://kerem-readme-stats.vercel.app/api?username=Turtlesih&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://kerem-readme-stats.vercel.app/api?username=Kerem-Kocak&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
 
-<img height="180em" src="https://kerem-readme-stats.vercel.app/api/top-langs/?username=Turtlesih&layout=compact&theme=radical" />
+<img height="180em" src="https://kerem-readme-stats.vercel.app/api/top-langs/?username=Kerem-Kocak&layout=compact&theme=radical" />
 
 ### 🚀 Ongoing Projects
 * **Hotel Reservation System:** A full-stack Python & MySQL application for managing bookings and database normalization.
