@@ -44,5 +44,5 @@
 * **Financial Data Pipeline:** An automated Python & MySQL pipeline that extracts live cryptocurrency market data via the Blockchair REST API and stores it in a normalized database, featuring a Streamlit dashboard, Docker support, and CI/CD.
 
 ### 📫 Connect with me
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](YOUR_LINKEDIN_URL)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/keremkoçak)
 
